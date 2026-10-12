@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Labour Pro</string>
+    <string name="app_title_full">Construction Labour Management Pro</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_greeting">Site Operations</string>
+    <string name="select_site">Select Construction Site</string>
+    <string name="add_new_site">+ Add Site</string>
+    <string name="total_workers">Total Workers</string>
+    <string name="present_today">Present</string>
+    <string name="half_day_today">Half-Day (HD)</string>
+    <string name="absent_today">Absent</string>
+    <string name="daily_wage_expense">Est. Wage Cost</string>
+    <string name="currency_symbol">Ks</string>
+    <string name="currency_code">MMK</string>
+    
+    <!-- Navigation Cards -->
+    <string name="nav_worker_master">Worker Master</string>
+    <string name="nav_worker_master_sub">Manage labor profiles &amp; daily rates</string>
+    <string name="nav_daily_attendance">Daily Attendance</string>
+    <string name="nav_daily_attendance_sub">Ultra-fast shift &amp; OT entry</string>
+    <string name="nav_advance_ledger">Advance Ledger</string>
+    <string name="nav_advance_ledger_sub">Track cash advances &amp; payouts</string>
+    <string name="nav_reports_sheet">Reports &amp; Muster</string>
+    <string name="nav_reports_sheet_sub">Monthly sheet, export CSV &amp; print</string>
+
+    <!-- Worker Master -->
+    <string name="add_worker">Add New Worker</string>
+    <string name="edit_worker">Edit Worker</string>
+    <string name="worker_id">Worker ID / Code</string>
+    <string name="worker_name">Full Name</string>
+    <string name="gender">Gender</string>
+    <string name="worker_type">Trade / Skill Category</string>
+    <string name="daily_rate">Daily Wage (Ks)</string>
+    <string name="ot_rate">OT Rate (Ks/hr)</string>
+    <string name="phone_number">Contact Number</string>
+    <string name="assigned_site">Assigned Site</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="search_workers_hint">Search by name, ID, or trade…</string>
+    
+    <!-- Attendance -->
+    <string name="mark_all_present">Mark All Present</string>
+    <string name="mark_all_absent">Mark All Absent</string>
+    <string name="save_attendance">Save Attendance</string>
+    <string name="morning_shift">Morning (1st Half)</string>
+    <string name="evening_shift">Evening (2nd Half)</string>
+    <string name="ot_hours">OT Hours</string>
+    <string name="total_earned">Total Earned</string>
+    <string name="attendance_saved_success">Attendance saved successfully!</string>
+    <string name="date">Date</string>
+
+    <!-- Advance Ledger -->
+    <string name="record_advance">Record Cash Advance</string>
+    <string name="amount">Amount (Ks)</string>
+    <string name="supervisor_name">Given By (Supervisor)</string>
+    <string name="purpose_remark">Remark / Purpose</string>
+    <string name="total_advance_disbursed">Total Advances Given</string>
+    
+    <!-- Reports -->
+    <string name="muster_roll">Monthly Muster Roll</string>
+    <string name="export_csv">Export CSV / Excel</string>
+    <string name="print_sheet">Print Muster Sheet</string>
+    <string name="select_month">Select Period</string>
+</resources>

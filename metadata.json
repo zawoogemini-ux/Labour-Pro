@@ -1,0 +1,6 @@
+{
+  "name": "Labour Pro",
+  "description": "Construction Labour Management Pro - Offline-first labor attendance, wage tracking, and worker management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
